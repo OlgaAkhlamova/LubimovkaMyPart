@@ -1,0 +1,9 @@
+.page {
+    margin: 0 auto;
+    background: #E5E5E5;
+    color: #242424;
+    padding: 0;
+    text-align: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
