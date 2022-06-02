@@ -6,7 +6,8 @@
 }
 
 @font-face {
-  src: url(../fonts/Neue-Machina-Regular/PPNeueMachina-Regular.woff2) format('woff2'),
+  src: url(../fonts/Neue-Machina-Regular/PPNeueMachina-Regular.ttf) format('truetype'),
+    url(../fonts/Neue-Machina-Regular/PPNeueMachina-Regular.woff2) format('woff2'),
     url(../fonts/Neue-Machina-Regular/PPNeueMachina-Regular.woff) format('woff');
   font-family: 'Neue Machina';
   font-weight: 400;

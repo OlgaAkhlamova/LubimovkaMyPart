@@ -1,9 +1,18 @@
 .page {
-    margin: 0 auto;
-    background: #E5E5E5;
-    color: #242424;
-    padding: 0;
-    text-align: center;
-    min-width: 320px;
-    min-height: 100vh;
+  margin: auto;
+  padding: 0;
+  background: #e5e5e5;
+  color: #242424;
+  min-width: 320px;
+  max-width: 1440px;
+  width: 100%;
+  font-family: Formular, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -ms-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern";
 }
