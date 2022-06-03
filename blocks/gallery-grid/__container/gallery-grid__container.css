@@ -1,3 +1,15 @@
 .gallery-grid__container {
-	
+	display: grid;
+	max-width: 100%;
+	grid-template-columns: repeat(2, minmax(min-content, calc(50% - 1px)));
+	grid-template-rows: 1fr 1fr 1fr 1fr;
+	row-gap: 1px;
+	column-gap: 1px;
+}
+
+@media screen and (min-width: 768px) {
+	.gallery-grid__container {
+		grid-template-columns: repeat(4, minmax(min-content, calc(25% - 1px)));
+		grid-template-rows: 1fr 1fr;
+	}
 }
