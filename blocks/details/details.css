@@ -1,0 +1,11 @@
+.details {
+background-color: #fff;
+display: grid;
+grid-template-areas: 
+"time age"
+"persons persons";
+grid-template-columns: 178px auto;
+row-gap: 20px;
+padding: 58px 0 72px 0;
+justify-items: start;
+}

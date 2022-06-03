@@ -2,6 +2,22 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/page/page.css);
+@import url('../blocks/page/__text/page__text.css');
+
+
+@import url('../blocks/description/description.css');
+@import url('../blocks/details/details.css');
+@import url('../blocks/details/__text/details__text.css');
+@import url('../blocks/details/__text/_type/details__text_type_age.css');
+@import url('../blocks/details/__text/_type/details__text_type_time.css');
+@import url('../blocks/details/__persons/details__persons.css');
+@import url('../blocks/person/person.css');
+@import url('../blocks/person/__job/person__job.css');
+@import url('../blocks/person/__name/person__name.css');
+
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
+@import url('../blocks/video/__paragraph/video__paragraph.css');
 
 @import url(../blocks/gallery-grid/gallery-grid.css);
 @import url(../blocks/gallery-grid/__container/gallery-grid__container.css);

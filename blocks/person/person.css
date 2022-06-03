@@ -1,0 +1,7 @@
+.person {
+margin: 0 0 24px 3px;
+}
+
+.person:last-child {
+margin-bottom: 0;
+}

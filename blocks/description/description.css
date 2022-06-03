@@ -1,0 +1,6 @@
+.description {
+display: grid;
+grid-template-areas: 
+"details"
+"video";
+}
