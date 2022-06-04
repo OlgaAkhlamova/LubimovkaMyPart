@@ -3,4 +3,6 @@ display: grid;
 grid-template-areas: 
 "details"
 "video";
+max-width: 366px;
+padding: 0 24px;
 }

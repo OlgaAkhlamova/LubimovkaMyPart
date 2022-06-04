@@ -1,8 +1,10 @@
 .video__paragraph {
 text-align: left;
-text-indent: 30px;
+text-indent: 61px;
+margin-top: 16px;
 }
 
 .video__paragraph:first-child {
 text-indent: 0;
+margin-top: 0;
 }
