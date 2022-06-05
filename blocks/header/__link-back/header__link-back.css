@@ -1,0 +1,10 @@
+.header__link-back{
+    font-family: 'Formular',  Arial, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 14px;
+    color: #242424;
+    text-transform: uppercase;
+    text-decoration: none;
+}

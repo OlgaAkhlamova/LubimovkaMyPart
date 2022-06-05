@@ -1,0 +1,18 @@
+.header__button{
+    min-width: 361px;
+    min-height: 56px;
+    padding-left: 16px;
+    text-align: left;
+    font-family: 'Formular';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #242424;
+    text-transform: uppercase;
+    border-width: 1px;
+    cursor: pointer;
+}
+.header__button:last-child{
+    border-top: 0px;
+}

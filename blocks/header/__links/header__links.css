@@ -1,0 +1,8 @@
+.header__links{
+    list-style: none;
+    display: grid;
+    padding: 0;
+    text-align: left;
+    margin: 0;
+    margin-top: 72px;
+}

@@ -1,0 +1,9 @@
+.menu__link{
+    min-height: 56px;
+    border: 1px solid #000000;
+    border-bottom: 0;
+}
+
+.menu__link:last-child{
+    border-bottom: 1px solid #000000;
+}
